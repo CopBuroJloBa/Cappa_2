@@ -1,7 +1,8 @@
-#include <stdio.h>
+#include <iostream>
+using namespace std;
 
 int main(){
-	printf("Hello, World\n");
-	printf("Goodbye, World\n");
+	cout << "Hello, World\n";
+	cout << "Goodbye, World\n";
 	return 0;
 }
